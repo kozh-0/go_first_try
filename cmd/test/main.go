@@ -6,9 +6,9 @@ func main() {
 	// first()
 
 	// second()
-	secondMapsAndLoops()
+	// secondMapsAndLoops()
 
 	third()
-
+ 
 } 
 
